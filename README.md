@@ -3,15 +3,14 @@
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <img src="https://github-readme-stats.vercel.app/api?username=futureyn&show_icons=true&theme=radical" />
   </picture>
 
 </div>
 
 # 欢迎来到我的 GitHub 页面 🌟
 
-![Profile views](https://gpvc.arturio.dev/你的GitHub用户名) <!-- 访问量统计插件 -->
-![GitHub Followers](https://img.shields.io/github/followers/你的GitHub用户名?style=social) <!-- 关注者数量 -->
+<img src="https://github-readme-stats.vercel.app/api?username=futureyn&show_icons=true&theme=radical" />
 
 ## 关于我
 
